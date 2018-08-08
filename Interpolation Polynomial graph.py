@@ -9,7 +9,6 @@ with open("cheb_y.pr4") as fy:
 chebY = [float(item) for item in lines]
 
 # Equidistant points and values of polynomial there
-# равноудаленные точки и значения полинома в них
 with open("equidist_y.pr4") as fy:
     lines = fy.read().splitlines()
 equidistY = [float(item) for item in lines]

@@ -1,13 +1,3 @@
-# -*- coding: UTF-8 -*-
-import matplotlib.pyplot as plt
-from matplotlib.font_manager import FontProperties
-import numpy as np
-import scipy.interpolate as sp
-from numpy import array
-import pylab
-from matplotlib import mlab
-from scipy import interpolate
-
 # coordinates on x-axis
 with open("points_for_interpolation.pr4") as fx:
     lines = fx.read().splitlines()

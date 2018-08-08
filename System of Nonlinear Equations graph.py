@@ -1,11 +1,3 @@
-# -*- coding: UTF-8 -*-
-import sys
-import math
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import mlab
-import pylab
-
 file = open("constant.txt", "r")
 z = file.readline()
 

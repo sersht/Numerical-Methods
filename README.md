@@ -9,5 +9,3 @@ Implemented numerical methods algorithms for function research, added visualizat
 - Finding roots of Nonlinear Equation.
 
 ![nonl_plot](https://github.com/sersht/Numerical-Methods/blob/master/project3%20example.jpg)
-
-- Solving System of Linear & Nonlinear Equations.
